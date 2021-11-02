@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c90cc4bc-0018-40de-b1ac-b50ad4e3a1e8": {
+      "ProjectGuid": "c90cc4bc-0018-40de-b1ac-b50ad4e3a1e8",
+      "DisplayName": "Blockchain",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

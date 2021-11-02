@@ -1,0 +1,16 @@
+C:\Users\panic\source\repos\Blockchain\bin\Debug\net6.0\Blockchain.exe
+C:\Users\panic\source\repos\Blockchain\bin\Debug\net6.0\Blockchain.deps.json
+C:\Users\panic\source\repos\Blockchain\bin\Debug\net6.0\Blockchain.runtimeconfig.json
+C:\Users\panic\source\repos\Blockchain\bin\Debug\net6.0\Blockchain.dll
+C:\Users\panic\source\repos\Blockchain\bin\Debug\net6.0\ref\Blockchain.dll
+C:\Users\panic\source\repos\Blockchain\bin\Debug\net6.0\Blockchain.pdb
+C:\Users\panic\source\repos\Blockchain\obj\Debug\net6.0\Blockchain.GlobalUsings.g.cs
+C:\Users\panic\source\repos\Blockchain\obj\Debug\net6.0\Blockchain.csproj.AssemblyReference.cache
+C:\Users\panic\source\repos\Blockchain\obj\Debug\net6.0\Blockchain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panic\source\repos\Blockchain\obj\Debug\net6.0\Blockchain.AssemblyInfoInputs.cache
+C:\Users\panic\source\repos\Blockchain\obj\Debug\net6.0\Blockchain.AssemblyInfo.cs
+C:\Users\panic\source\repos\Blockchain\obj\Debug\net6.0\Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\panic\source\repos\Blockchain\obj\Debug\net6.0\Blockchain.dll
+C:\Users\panic\source\repos\Blockchain\obj\Debug\net6.0\ref\Blockchain.dll
+C:\Users\panic\source\repos\Blockchain\obj\Debug\net6.0\Blockchain.pdb
+C:\Users\panic\source\repos\Blockchain\obj\Debug\net6.0\Blockchain.genruntimeconfig.cache
