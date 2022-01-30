@@ -1,5 +1,5 @@
 # Blockchain-DotNet
-Simple Blockchain implementation with C# and .NET 6
+Simple Blockchain implementation with .NET 6
 
 
 ### Elements of a Blockchain
@@ -10,5 +10,6 @@ Simple Blockchain implementation with C# and .NET 6
 2. Genesis block
 3. Validity checks
     - check current hash and previous hash
+    - using nonce
 4. Difficulty
     - rule for generating next block (Proof of Work)
